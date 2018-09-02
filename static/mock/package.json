@@ -1,0 +1,48 @@
+{
+  "code": 0,
+  "data": {
+    "entity": [{
+      "subjectCode": "01",
+      "subjectName": "语文",
+      "totalNum": 3511
+    }, {
+      "subjectCode": "02",
+      "subjectName": "数学",
+      "totalNum": 3563
+    }, {
+      "subjectCode": "03",
+      "subjectName": "英语",
+      "totalNum": 2144
+    }, {
+      "subjectCode": "05",
+      "subjectName": "物理",
+      "totalNum": 6145
+    }, {
+      "subjectCode": "06",
+      "subjectName": "化学",
+      "totalNum": 4425
+    }, {
+      "subjectCode": "13",
+      "subjectName": "生物",
+      "totalNum": 6244
+    }, {
+      "subjectCode": "27",
+      "subjectName": "政治",
+      "totalNum": 1571
+    }, {
+      "subjectCode": "12",
+      "subjectName": "历史",
+      "totalNum": 1905
+    }, {
+      "subjectCode": "14",
+      "subjectName": "地理",
+      "totalNum": 2234
+    }, {
+      "subjectCode": "26",
+      "subjectName": "信息技术",
+      "totalNum": 0
+    }],
+    "total": 10
+  },
+  "msg": "成功"
+}
